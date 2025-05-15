@@ -1,6 +1,30 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+let myFirstName = "Radames";
+let myLastName = "Rivera";
+let myFavoriteCeleb = "Jessica Alba";
+
+let mySentence = "Hi, I'm " + myFirstName + " " + myLastName + " and I love " + myFavoriteCeleb;
+
+let myLuckyNum = 14;
+let myAge = 39;
+let myHeight = 180.34; 
+let myFavoriteYear = 2007;
+
+let mySum = 5 + 2317 +36;
+
+let myProduct = 232 * 43 / 2 + 4;
+
+let myHeightAndAge = myHeight + myAge ;
+
+console.log(mySentence);
+console.log("Lucky number: " + myLuckyNum);
+console.log ("Age: " + myAge);
+console.log("Height: " + myHeight);
+console.log("Favorite year: " + myFavoriteYear);
+console.log("Sum: " + mySum);
+console.log("Product: " + myProduct);
 
 
 /*********************************************************************************************************************
